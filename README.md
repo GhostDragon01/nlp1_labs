@@ -2,6 +2,12 @@
 
 This repository presents a comprehensive overview of several Natural Language Processing (NLP) tasks, ranging from fundamental techniques to advanced Transformer models. The work is a collaborative effort between myself and two classmates, culminating in a series of seven lab exercises focused on NLP. Detailed descriptions of each lab are provided below. The corresponding code is accessible via the provided GitHub link.
 
+## Authors
+
+- habib.adoum-mandazou
+- julian.gil
+- antoine.feret
+
 ## Labs Description
 
 1. **Naive Bayes Classifier for Sentiment Analysis**
